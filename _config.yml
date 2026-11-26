@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: IBSS Lab
+title: Sawit's and IBSS lab projects
 email: sawit.n@chula.ac.th
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio and blog for the IBSS Lab.

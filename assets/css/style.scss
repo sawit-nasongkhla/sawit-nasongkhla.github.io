@@ -23,24 +23,3 @@ h1, h2, h3, h4, h5, h6 {
 #project_title {
   font-size: 56px;
 }
-
-#site_logo_link {
-  position: absolute;
-  top: 0;
-  left: 30px;
-  bottom: 0;
-  display: flex;
-  align-items: center;
-  z-index: 5;
-}
-
-#site_logo {
-  position: static;
-  height: 65%;
-  width: auto;
-  max-width: none;
-  margin: 0;
-  padding: 0;
-  border: none;
-  box-shadow: none;
-}
