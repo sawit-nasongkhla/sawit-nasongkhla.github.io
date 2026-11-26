@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: IBSS Lab
-email: your-email@example.com
+email: sawit.n@chula.ac.th
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio and blog for the IBSS Lab.
 baseurl: "" # the subpath of your site - empty for a user site (IBSS-lab.github.io)

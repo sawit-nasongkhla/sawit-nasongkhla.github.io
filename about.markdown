@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Welcome to the IBSS Lab site. Replace this paragraph with a short description of the lab, its mission, and the people involved.
+IBSS Lab is a research group focused on building tools and running studies at the intersection of software and science. This page collects our projects and occasional posts about what we're working on.
