@@ -22,7 +22,7 @@ title: IBSS Lab
 email: sawit.n@chula.ac.th
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio and blog for the IBSS Lab.
-baseurl: "/IBSS-lab.github.io" # project-page subpath: repo is served under the sawit-nasongkhla account, not as a user site
+baseurl: "" # the subpath of your site - empty for a user site (sawit-nasongkhla.github.io)
 url: "https://sawit-nasongkhla.github.io" # the base hostname & protocol for your site
 github_username: sawit-nasongkhla
 show_downloads: false
